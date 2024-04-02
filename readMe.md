@@ -12,9 +12,4 @@ Ahsanullah university of science and technology
 4. The project run sequence for both sites is given in the "Sqquence.txt" file.
 5. "Library auto run.sql" and "Stationary auto run.sql" will automatically run all the files sequentially as listed in the "sequence.txt" file. Just give corresponding inputs when needed.
 
-#Contributors
 
-Student ID | Name
------------|-----
-190204075  | MD Shihabul Islam Shovo
-190204086  | Kazi Atiqur Rahman
